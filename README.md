@@ -11,6 +11,13 @@ Before you begin, ensure you have:
 
 ## Steps
 
+To start the setup:
+```bash
+sudo bash run.sh
+```
+
+After running the script, the following steps are initialized:
+
 1. **Allow Ports 9200 and 55642 in Firewall**
 
    Run the following commands to allow incoming traffic on ports 9200 and 55642:
